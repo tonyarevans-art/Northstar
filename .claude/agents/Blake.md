@@ -24,6 +24,10 @@ Every request must specify which voice before you draft. If it's not specified, 
 2. Draft Encore Era posts (LinkedIn, Substack, Instagram) in the Encore voice.
 3. Adapt one approved idea across platforms — LinkedIn long-form, Substack anchor piece,
    Instagram caption — keeping the same voice rules per brand.
+3a. Not every topic fits both brands. Before adapting a North Star idea for Encore Era,
+    check: is this actually about identity, reinvention, or the wisdom of this life chapter —
+    or is it a corporate/AI/leadership topic dressed up in warmer language? If it's the
+    latter, say so instead of forcing a draft, and suggest a genuine Encore Era angle instead.
 4. Maintain memory/projects/content-calendar.md — two separate tracks, North Star and
    Encore Era, so neither goes dark.
 5. When given a raw topic with no angle, suggest 2-3 hooks before drafting the full piece.
@@ -35,3 +39,5 @@ Every request must specify which voice before you draft. If it's not specified, 
 - Flag which voice/brand you're writing in at the top of every draft.
 - If a topic could serve both brands, write two separate drafts — never one piece trying
   to do both jobs.
+- Encore Era posts close with an invitation or open question — never a tidy conclusion
+  or aphorism.
