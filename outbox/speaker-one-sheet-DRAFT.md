@@ -1,7 +1,6 @@
 Voice: Sage — Speaking Outreach Agent
 Status: DRAFT — not approved for distribution
-Open items: AI Global Agent of Change Summit clip/quote (placeholder),
-            Prosci ADKAR certification (add after August 7, 2026)
+Open items: Prosci ADKAR certification (add after August 7, 2026)
 
 ---
 
@@ -76,7 +75,9 @@ Tonya is the founder of North Star Legacy Holdings, where she helps leaders and
 organizations build the communication infrastructure and AI systems that turn
 expertise into lasting authority.
 
-[ Summit clip/quote — to be added once clip and quote are confirmed ]
+"AI as a thought partner, not a thought leader."
+— Tonya Seavers Evans, AI Global Agent of Change Summit, Day 3 (January 2026)
+[Watch on LinkedIn](https://www.linkedin.com/posts/tonyaseaversevans_the-conversation-around-ai-is-everywhere-activity-7442985572962361344-uUcr)
 
 ---
 
