@@ -1,7 +1,6 @@
 Voice: Sage — Speaking Outreach Agent
 Status: DRAFT — not approved for distribution
 Open items: AI Global Agent of Change Summit clip/quote (placeholder),
-            booking contact/email (confirm before distributing),
             Prosci ADKAR certification (add after August 7, 2026)
 
 ---
@@ -84,4 +83,4 @@ expertise into lasting authority.
 ## BOOK TONYA
 
 northstarlegacyholdings.com
-[ Booking contact/email — confirm before distributing ]
+tonya@northstarlegacyholdings.com
