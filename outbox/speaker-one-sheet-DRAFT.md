@@ -1,6 +1,5 @@
 Voice: Sage — Speaking Outreach Agent
 Status: DRAFT — not approved for distribution
-Open items: Prosci ADKAR certification (add after August 7, 2026)
 
 ---
 
