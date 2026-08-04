@@ -61,6 +61,11 @@ My customers are: Individual executives who want to build or protect their profe
 4. northstarlegacyholdings.com: copy is with developer Cam; remaining build items are nav,
    About page, Services page, footer email fix, custom domain connection.
 
+## Contact
+tonya@northstarlegacyholdings.com — standing contact for booking inquiries, client
+correspondence, and outreach. All agents use this address when referencing or drafting
+to Tonya's contact email.
+
 ## Note on this file
 This file is reviewed and corrected as priorities shift. If something here looks out of date,
 flag it — don't quietly work around it.
