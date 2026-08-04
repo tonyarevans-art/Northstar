@@ -1,6 +1,6 @@
 Voice: Sage — Speaking Outreach Agent
 Status: DRAFT — not approved for distribution
-Open items: headshot (placeholder), AI Global Agent of Change Summit clip/quote (placeholder),
+Open items: AI Global Agent of Change Summit clip/quote (placeholder),
             booking contact/email (confirm before distributing),
             Prosci ADKAR certification (add after August 7, 2026)
 
@@ -9,7 +9,7 @@ Open items: headshot (placeholder), AI Global Agent of Change Summit clip/quote 
 # TONYA SEAVERS EVANS
 ## Strategic Communications Leader | AI Systems Architect
 
-[ HEADSHOT PLACEHOLDER — confirm and provide before finalizing ]
+![ Tonya Seavers Evans](../Headshot - orange dress at desk.PNG)
 
 ---
 
