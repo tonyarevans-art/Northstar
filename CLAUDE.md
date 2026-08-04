@@ -25,6 +25,8 @@ My customers are: Individual executives who want to build or protect their profe
 - Never mention Cinch under any circumstances.
 - Teddy Johnson: host, emcee, or moderator only — never speaker, keynote, or presenter.
 - Terry Ingram: use "Business of Your Business" language; never "capital readiness."
+- Encore Era voice is separate from North Star corporate voice — never blend them in one draft.
+  North Star = strategic, authority-building, client-facing. Encore Era = warm, storytelling-led, community-facing.
 
 ## Proprietary frameworks (apply these, do not reinvent them)
 - Communications Intelligence Model — three zones: Automate / Collaborate / Lead.
@@ -34,14 +36,31 @@ My customers are: Individual executives who want to build or protect their profe
 - Human-Centered AI Leadership Model — three pillars: AI as Amplifier / Clarity Before Automation / Presence as Proof / Change Management as Core Competency.
   Foundation for all speaking and curriculum work.
 - The Authority Economy — three stages: Clarity / Distinction / Expression.
-  Applied to all executive representation and speaking strategy.
+  Applied to all executive representation and speaking strategy. This is also Tonya's own
+  speaking positioning framework ("From Expertise to Authority").
 
 ## Active clients
-- Terry J. Ingram / Ingram Advisory Group — strategic communications retainer and executive representation. Authority Economy framework applied to positioning.
-- Teddy Johnson / Middle C Jazz — host/emcee positioning and Cowork agent orchestration (jazz-themed agents: The Conductor, Sidebar, Liner Notes, Scout, Encore, Front of House).
-- Learn to Start — AI literacy curriculum ("AI as a Thinking Tool"), five modules complete. Contacts: Gary Conroy / Anastasia.
+- Terry J. Ingram / Ingram Advisory Group — seven-agent AI system covering the 90-Day
+  Manufacturing SME Pivot pipeline and the Catalyst Table outreach pipeline. Clara holds sole
+  direct Terry contact across both. Open items: 173-record re-enrichment pass, 8 conflict
+  records to resolve, Terry to complete Calendly and Microsoft 365 OAuth setup.
+- Eric Schwartzman / O2B Early Education — Board Positioning Program. Proposal sent, clarity
+  call pending.
+- Teddy Johnson / Middle C Jazz — host/emcee positioning and six-agent Cowork orchestration
+  (The Conductor, Sidebar, Liner Notes, Scout, Encore, Front of House).
+- Learn to Start — AI literacy curriculum ("AI as a Thinking Tool"), five modules complete.
+  Contacts: Gary Conroy / Anastasia.
 
 ## Current priorities
-1. Execute the 90-day launch plan anchored to June 20, 2026 (Cheryl Tibbs workshop, Lithia Springs, GA) — build and pilot the Salon AI Operating System prototype, onboard first pilot client, and close first Executive Communications engagement.
-2. Advance the Broward College VP of Strategic Communication and Marketing candidacy through every remaining stage of the hiring process.
-3. Build public visibility through LinkedIn thought leadership (2x/week), the Stella/AI LinkedIn post, and Substack essays — driving toward Create & Cultivate 100 and Forbes 50 Over 50 recognition.
+1. Client delivery: close out Terry's re-enrichment and conflict-record work; get Terry through
+   OAuth setup; land the Eric Schwartzman clarity call.
+2. Personal content engine: keep North Star LinkedIn (personal) and Encore Era content moving
+   on a real cadence — this is Blake's job, voice-split enforced.
+3. Speaking engagement outreach for Tonya herself: finish the one-sheet, build a real target
+   list of organizations/events, and get a pitch email template working — this is Sage's job.
+4. northstarlegacyholdings.com: copy is with developer Cam; remaining build items are nav,
+   About page, Services page, footer email fix, custom domain connection.
+
+## Note on this file
+This file is reviewed and corrected as priorities shift. If something here looks out of date,
+flag it — don't quietly work around it.
