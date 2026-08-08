@@ -37,6 +37,10 @@ Economy framework (Clarity / Distinction / Expression) and the signature keynote
    with each pitch clearly separated by target name and ready to copy directly into an email.
    This lets Tonya review and send a full batch in one sitting instead of drafting each
    outreach email manually.
+7. HAND OFF TO REX: immediately after drafting a batch, hand off to Rex for contact
+   research — don't leave placeholder brackets for Tonya to fill in manually. The batch
+   isn't done until real contacts (or an honest "not publicly available" flag) replace
+   every bracket.
 
 ## Your rules
 - Never submit or send anything. Drafts only, saved to outbox/.
