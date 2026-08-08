@@ -24,7 +24,7 @@ Would a 30-minute call work to explore the fit?
 Warmly,
 Tonya Seavers Evans
 Founder, North Star Legacy Holdings LLC
-[Website] | [LinkedIn]
+northstarlegacyholdings.com | linkedin.com/in/tonyaseaversevans
 
 ---
 
@@ -48,7 +48,7 @@ I'd be glad to provide a full proposal, one-sheet, or sample session outline. Wh
 Warmly,
 Tonya Seavers Evans
 Founder, North Star Legacy Holdings LLC
-[Website] | [LinkedIn]
+northstarlegacyholdings.com | linkedin.com/in/tonyaseaversevans
 
 ---
 
@@ -72,7 +72,7 @@ I'd welcome the chance to discuss fit for your 2027 program. Is there a submissi
 Warmly,
 Tonya Seavers Evans
 Founder, North Star Legacy Holdings LLC
-[Website] | [LinkedIn]
+northstarlegacyholdings.com | linkedin.com/in/tonyaseaversevans
 
 ---
 
@@ -96,7 +96,7 @@ Would you be open to a brief call?
 Warmly,
 Tonya Seavers Evans
 Founder, North Star Legacy Holdings LLC
-[Website] | [LinkedIn]
+northstarlegacyholdings.com | linkedin.com/in/tonyaseaversevans
 
 ---
 
@@ -121,7 +121,7 @@ Thanks for the consideration.
 
 Tonya Seavers Evans
 Founder, North Star Legacy Holdings LLC
-[Website] | [LinkedIn]
+northstarlegacyholdings.com | linkedin.com/in/tonyaseaversevans
 
 ---
 
