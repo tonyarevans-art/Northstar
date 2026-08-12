@@ -6,7 +6,7 @@ Maintained by Rex (Research Analyst). See `agents/rex.md` — Standing Responsib
 
 **Sourcing key:** ✅ Confirmed = event's own website or a direct press release. Est./unconfirmed = trade press, aggregator listicles, or a search-engine summary that could not be traced to a primary page — flagged as such, not stated as fact.
 
-**Last refreshed:** 2026-08-12 (initial seed)
+**Last refreshed:** 2026-08-12 (ATD Florida / Catalyst Women in Leadership resolved)
 
 ---
 
@@ -14,7 +14,7 @@ Maintained by Rex (Research Analyst). See `agents/rex.md` — Standing Responsib
 
 **No confirmed CFP deadlines within 30 days as of this refresh** — nothing gets an URGENT flag this pass. The two closest-fit deadlines (ATD International 2027, HR Florida 2026) both **already closed** in the last two weeks; see "Recently Closed" below rather than the active list.
 
-**Two named priority targets could not be resolved to a real, findable event** — see "Needs Tonya's Clarification." Everything else below is either open now, rolling, or has a confirmed future deadline.
+**Both previously-unresolved priority targets are now closed out** (2026-08-12): "ATD Florida" is confirmed as ATD Central Florida (ATDCFL) and moved into Active opportunities below; "Catalyst Women in Leadership" was confirmed to not exist as a real opportunity and removed from the tracker.
 
 ---
 
@@ -30,6 +30,7 @@ Maintained by Rex (Research Analyst). See `agents/rex.md` — Standing Responsib
 | **ACMP** (Association of Change Management Professionals) — general org | Next confirmed event TBD (see note) | National/global change-management practitioner audience — the single most direct topical match in this list (Tonya's core expertise, with AI-in-change-management sessions already appearing on ACMP programs) | ⚠️ Unclear — see note below | acmpglobal.org | Not confirmed | 🆕 Draft ready — general inquiry, not tied to a specific CFP — outbox/speaking-pitch-acmp-inquiry.md (2026-08-12) |
 | **The AI+HI Project** (SHRM) 2027 conference | TBD — not yet finalized | AI adoption for HR/people leaders; workshop format, "every stage of adoption" | Not yet open — sign-up-to-be-notified stage only | conferences.shrm.org/ai-hi-project-notify | Not confirmed | ⏸ Not pitched — no submission process exists yet, only a notify-me signup |
 | **Florida Chamber Leadership Conference** (Safety, Health + Sustainability) | 2027 — specific dates not confirmed | Orlando (Disney World Contemporary Resort); industry-leader audience, but core theme is safety/health/sustainability, not AI or change management | Open "Call for Presentations" page exists; specific deadline not confirmed | flleadershipconference.com/call-for-presentation | Sponsorship opportunities are bundled with the speaker call on their site — **borderline pay-to-play, verify before pursuing** | ⏸ Not pitched — holding for Tonya's read on the pay-to-play question and weak topical fit before drafting |
+| **ATD Central Florida (ATDCFL)** (chapter speaker program) | Ongoing — chapter events, Orlando-based | Talent development community, Central Florida | Not specified — see Call for Speaker Proposals page for current window | atdcfl.org — Call for Speaker Proposals page; contact programs@atdcfl.org (per Tonya, 2026-08-12 — not yet independently verified against the live page) | Not indicated either way — not confirmed | ⏸ Not yet pitched — just resolved and added to tracker |
 
 **ACMP note:** Search surfaced a "2026 Call for Speakers" page on acmpglobal.org referencing an October 16 deadline, but I could not reliably confirm which specific ACMP event (year or conference) that deadline applies to — the two 2026 ACMP events I could confirm (Change Orlando, May 17–20, 2026; Global Connect, July 28–30, 2026, virtual) have both already passed as of this refresh, and an October deadline doesn't line up with either. Given how strong the topical fit is, this is worth a direct, manual check of acmpglobal.org/page/2026-call-for-speakers rather than treating my search result as reliable — flagging rather than guessing at a deadline.
 
@@ -46,20 +47,12 @@ Maintained by Rex (Research Analyst). See `agents/rex.md` — Standing Responsib
 
 - **ACMP Change Orlando 2026** — Orlando, FL, May 17–20, 2026 (confirmed via ACMP's own registration announcement). In-person, Florida-based — worth watching for a 2027 edition given the regional fit.
 - **ACMP Global Connect 2026** — virtual, July 28–30, 2026 (confirmed via ACMP's own event page).
-- **Catalyst Awards Conference & Dinner** — March 2026 (catalyst.org). Note: this is a recognition/awards event honoring nominated companies, not an open speaker CFP — see clarification note below.
+- **Catalyst Awards Conference & Dinner** — March 2026 (catalyst.org). Note: this is a recognition/awards event honoring nominated companies, not an open speaker CFP. Kept for reference only — this is not the same thing as "Catalyst Women in Leadership" (see Change Log, 2026-08-12: that target was researched, confirmed not to exist as a real opportunity, and removed).
 - **South Florida Leadership Summit** — Broward County, June 6, 2026 (Eventbrite listing).
-
----
-
-## Needs Tonya's Clarification
-
-Two named priority targets from `agents/sage.md` could not be matched to a specific, findable event:
-
-- **"Catalyst Women in Leadership"** — No event by this exact name turned up. The closest real match is Catalyst (catalyst.org), a nonprofit focused on women's workplace advancement — but their flagship event is the Catalyst Awards Conference & Dinner, a recognition ceremony for nominated organizations, not a general call-for-speakers conference. There's no clear path to "pitch a talk" there. Possible this refers to a different, smaller or more regional event not surfacing in general search — worth a direct pointer from Tonya (a URL, an organizer name, or where she originally heard about it) rather than continued guessing.
-- **"ATD Florida"** — No distinct "ATD Florida state conference" (parallel to how HR Florida is SHRM's state conference) was found. The only Florida-specific ATD presence found is **ATD South Florida**, a local chapter running rolling monthly-event speaker submissions (already captured above). If that's what "ATD Florida" refers to, no further action needed — otherwise, need a pointer to the specific conference Tonya has in mind.
 
 ---
 
 ## Change Log
 - 2026-08-12: Initial tracker seeded. Six active/watchable opportunities identified (ATD South Florida, How to Be Awesome at Your Job podcast, WorkHuman Live, ACMP, AI+HI Project, Florida Chamber Leadership Conference); two deadlines found already closed (ATD International 2027, HR Florida 2026); four events found already past (ACMP Change Orlando 2026, ACMP Global Connect 2026, Catalyst Awards Conference, South Florida Leadership Summit); two named priority targets from sage.md ("Catalyst Women in Leadership," "ATD Florida") could not be resolved to a specific event — flagged for Tonya's clarification rather than guessed at.
 - 2026-08-12: First run of Sage's Weekly Speaking Scan (run on demand, ahead of its Monday schedule). Added a Pitch Status column. No target was past the 14-day follow-up window since nothing has been sent yet. Drafted first-touch pitches for the four targets with a workable submission path (ATD South Florida, How to Be Awesome at Your Job, WorkHuman Live, ACMP as a general inquiry given its unclear CFP) to outbox/. Held off drafting for AI+HI Project (no submission process exists yet) and Florida Chamber Leadership Conference (pay-to-play question and weak topical fit unresolved).
+- 2026-08-12: Resolved both previously-unresolved priority targets per Tonya. "ATD Florida" corrected to ATD Central Florida (ATDCFL), an Orlando-based chapter — added to Active opportunities with the Call for Speaker Proposals page at atdcfl.org and contact programs@atdcfl.org (provided directly, not yet independently verified against the live site). "Catalyst Women in Leadership" removed entirely — researched and confirmed no matching speaking opportunity exists under that name; the "Needs Tonya's Clarification" section is now empty and has been removed from the file.
