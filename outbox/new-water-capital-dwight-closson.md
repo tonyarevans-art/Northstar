@@ -6,7 +6,6 @@
 **Angle used:** Cleanest fit of the three, no AI-signal caveats — straightforward value-creation-lever framing rather than a specific capability-gap hook.
 
 **PLACEHOLDERS — fill in before sending:**
-- `[MEETING AVAILABILITY]` — Tonya's specific times/dates for a call
 - `[SENDER CONTACT BLOCK]` — Tonya's direct email/phone/site to close the signature (none on file in this repo)
 - `[DWIGHT CLOSSON EMAIL]` — name and title confirmed via firm press release, but not a direct email address; verify before sending
 
@@ -20,7 +19,7 @@ You run operational initiatives across New Water's portfolio — which means you
 
 I'm Tonya Seavers Evans, North Star Legacy Holdings. My work is change management — helping leadership teams actually adopt what they've decided to do, with AI adoption as the current, highest-leverage version of that problem. For portfolio companies in manufacturing and consumer products, AI readiness isn't really a technology question. It's whether the organization can absorb the change without losing the operational discipline that made it a good investment in the first place.
 
-I'd like to understand how you currently think about readiness across the portfolio, and share how I've approached it elsewhere — no pitch, just a working conversation between people who deal with the same problem from different sides. `[MEETING AVAILABILITY]`
+I'd like to understand how you currently think about readiness across the portfolio, and share how I've approached it elsewhere — no pitch, just a working conversation between people who deal with the same problem from different sides. Please send me a few dates and times that work well on your end, and I'll do my best to make my schedule work around yours.
 
 Open to a short call?
 

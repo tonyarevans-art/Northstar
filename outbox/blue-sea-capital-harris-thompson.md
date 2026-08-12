@@ -6,7 +6,6 @@
 **Angle used:** Blue Sea already sources digital transformation/CRM-ERP work through outside vendors per portfolio company, with no in-house technical leadership — pitch is "you're already buying this externally, let's talk about how it's evaluated and executed."
 
 **PLACEHOLDERS — fill in before sending:**
-- `[MEETING AVAILABILITY]` — Tonya's specific times/dates for a call
 - `[SENDER CONTACT BLOCK]` — Tonya's direct email/phone/site to close the signature (none on file in this repo)
 - `[HARRIS THOMPSON EMAIL]` — Rex confirmed the name and title but not a direct email address; verify before sending
 
@@ -20,7 +19,7 @@ Your portfolio companies are getting cloud migration, data analytics, and CRM/ER
 
 That gap — readiness, not tooling — is where I work. I'm Tonya Seavers Evans, and I help leadership teams navigate change; AI and digital transformation are just the highest-stakes version of that work right now, not a separate specialty. For a firm managing this across a manufacturing, healthcare, and aerospace & defense portfolio, the failure mode is rarely the vendor selection. It's rollout.
 
-I'd like to compare notes on how Blue Sea currently evaluates and manages that work across the portfolio — not to pitch a specific engagement, just to understand where the friction actually shows up. `[MEETING AVAILABILITY]`
+I'd like to compare notes on how Blue Sea currently evaluates and manages that work across the portfolio — not to pitch a specific engagement, just to understand where the friction actually shows up. Please send me a few dates and times that work well on your end, and I'll do my best to make my schedule work around yours.
 
 Worth 20 minutes?
 
