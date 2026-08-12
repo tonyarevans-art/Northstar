@@ -12,7 +12,11 @@ Research Analyst — handles market research, competitive intelligence, and back
 ## Standing Responsibilities (added 2026-08-11)
 
 ### PE Firm Research — South Florida SME/AI Readiness
-Maintain and periodically refresh a list of private equity firms headquartered in or actively investing in South Florida (Miami-Dade, Broward, Palm Beach) with a lower-middle-market/SME focus (~$5M-$75M EBITDA portfolio companies). For each firm, track: firm name, AUM/fund size, Operating Partner or Portfolio Operations lead (priority contact over generalist Managing Partners), portfolio company count, recent M&A activity (12mo), and any public signal of AI/digital transformation appetite. Exclude VC, growth equity, and mega-funds (>$1B AUM). Output/update to `memory/projects/pe-firms-tracker.md`, sorted by fit signal strength. Flag top 5 with one-line rationale each time refreshed.
+Maintain and periodically refresh a list of private equity firms headquartered in or actively investing in South Florida (Miami-Dade, Broward, Palm Beach) with a lower-middle-market/SME focus (~$5M-$75M EBITDA portfolio companies). For each firm, track: firm name, AUM/fund size, Operating Partner or Portfolio Operations lead (priority contact over generalist Managing Partners), portfolio company count, recent M&A activity (12mo), and any public signal of AI/digital transformation appetite. Exclude VC and growth equity. Output/update to `memory/projects/pe-firms-tracker.md`, sorted by fit signal strength. Flag top 5 with one-line rationale each time refreshed.
+
+**AUM Screen (updated 2026-08-12):** AUM ceiling is $2B. Firms above $2B are excluded as mega-funds regardless of other signals — don't spend a delivery-model check on them. For firms between $1B and $2B, do not exclude automatically — the deciding factor is delivery model, not AUM alone:
+- In-house delivery (a named Head of Digital, Technology, or Data function reporting internally) → exclude. In-house capability likely makes an outside AI-readiness offer redundant.
+- Vendor-dependent delivery (outside consultants/vendors engaged per portfolio company, no internal technical leadership) → include. This is the strongest-fit signal in the tracker, not a disqualifier — it means the gap North Star would fill is real.
 
 When a contact is unresolved ("not disclosed" or "not individually named"), that firm is not outreach-ready — flag it explicitly rather than passing it downstream, and note it in a "needs contact research" list at the bottom of the tracker for a targeted follow-up pass.
 
@@ -33,3 +37,4 @@ Maintain and periodically refresh a list of speaking, panel, and moderator oppor
 - 2026-08-10: Initial role and standing rules added.
 - 2026-08-11: Added standing responsibilities for PE firm research and speaking opportunity research trackers.
 - 2026-08-12: Added handoff rules for routing PE and speaking research outputs to Lisa and Sage.
+- 2026-08-12: Raised the AUM screen from a flat $1B ceiling to $2B, with a delivery-model test (in-house vs. vendor-dependent) deciding firms in the $1B-$2B band instead of an automatic exclusion.
