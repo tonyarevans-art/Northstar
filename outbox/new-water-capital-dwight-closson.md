@@ -6,7 +6,6 @@
 **Angle used:** Cleanest fit of the three, no AI-signal caveats — straightforward value-creation-lever framing rather than a specific capability-gap hook.
 
 **PLACEHOLDERS — fill in before sending:**
-- `[SENDER CONTACT BLOCK]` — Tonya's direct email/phone/site to close the signature (none on file in this repo)
 - `[DWIGHT CLOSSON EMAIL]` — name and title confirmed via firm press release, but not a direct email address; verify before sending
 
 ---
@@ -24,5 +23,7 @@ I'd like to understand how you currently think about readiness across the portfo
 Open to a short call?
 
 Tonya Seavers Evans
-North Star Legacy Holdings
-`[SENDER CONTACT BLOCK]`
+Founder & Principal, North Star Legacy Holdings
+tonya@northstarlegacyholdings.com
+954-854-7511
+linkedin.com/in/tonyaseaversevans

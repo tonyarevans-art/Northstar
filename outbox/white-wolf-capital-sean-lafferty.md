@@ -6,7 +6,6 @@
 **Angle used:** Sector adjacency (IT/security, manufacturing, aerospace & defense) suggests technical fluency, but the tracker found no stated AI appetite — this draft introduces the concept rather than assuming it's already on their radar.
 
 **PLACEHOLDERS — fill in before sending:**
-- `[SENDER CONTACT BLOCK]` — Tonya's direct email/phone/site to close the signature (none on file in this repo)
 - `[SEAN LAFFERTY EMAIL]` — name and title confirmed via firm press release, but not a direct email address; verify before sending
 
 ---
@@ -24,5 +23,7 @@ I'd like to introduce the idea properly — not propose an engagement, just walk
 Would a short call make sense?
 
 Tonya Seavers Evans
-North Star Legacy Holdings
-`[SENDER CONTACT BLOCK]`
+Founder & Principal, North Star Legacy Holdings
+tonya@northstarlegacyholdings.com
+954-854-7511
+linkedin.com/in/tonyaseaversevans

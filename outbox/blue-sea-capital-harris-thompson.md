@@ -6,7 +6,6 @@
 **Angle used:** Blue Sea already sources digital transformation/CRM-ERP work through outside vendors per portfolio company, with no in-house technical leadership — pitch is "you're already buying this externally, let's talk about how it's evaluated and executed."
 
 **PLACEHOLDERS — fill in before sending:**
-- `[SENDER CONTACT BLOCK]` — Tonya's direct email/phone/site to close the signature (none on file in this repo)
 - `[HARRIS THOMPSON EMAIL]` — Rex confirmed the name and title but not a direct email address; verify before sending
 
 ---
@@ -24,5 +23,7 @@ I'd like to compare notes on how Blue Sea currently evaluates and manages that w
 Worth 20 minutes?
 
 Tonya Seavers Evans
-North Star Legacy Holdings
-`[SENDER CONTACT BLOCK]`
+Founder & Principal, North Star Legacy Holdings
+tonya@northstarlegacyholdings.com
+954-854-7511
+linkedin.com/in/tonyaseaversevans
