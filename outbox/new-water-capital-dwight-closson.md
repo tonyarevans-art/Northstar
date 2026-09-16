@@ -1,26 +1,25 @@
 # DRAFT — NOT SENT — cold email, review before sending
 
 **Target:** New Water Capital — Dwight Closson, Partner – Operations (per firm press release; note the source request called him "Operating Partner" — title corrected here to match the confirmed source)
-**Prepared by:** Blake (Content Manager persona) for Tonya Seavers Evans, North Star Legacy Holdings
-**Source:** memory/projects/pe-firms-tracker.md — Qualification Notes (Lisa), "New Water Capital — qualified earlier in-session"
-**Angle used:** Cleanest fit of the three, no AI-signal caveats — straightforward value-creation-lever framing rather than a specific capability-gap hook.
+**Prepared by:** Blake (Content Manager) for Tonya Seavers Evans, North Star Legacy Holdings
+**Revised:** 2026-09-16 — applied updated PE outreach standard (AI readiness explicit, offer named in paragraph 2 including interim CAO, one close, no hedging, no deferential scheduling)
+**Angle used:** Operational accountability framing — Dwight owns whether value-creation holds at the company level; AI readiness is the current, highest-stakes version of that problem.
 
 **PLACEHOLDERS — fill in before sending:**
-- `[DWIGHT CLOSSON EMAIL]` — name and title confirmed via firm press release, but not a direct email address; verify before sending
+- `[DWIGHT CLOSSON EMAIL]` — name and title confirmed via firm press release; direct email not publicly available, verify before sending
+- Sectors (manufacturing, consumer products) sourced from Rex's prior research pass — verify against newwatercapital.com before sending
 
 ---
 
-**Subject:** A value-creation lever most operating partners haven't tested yet
+**Subject:** AI readiness across New Water's portfolio
 
 Dwight,
 
-You run operational initiatives across New Water's portfolio — which means you're the person actually accountable for whether a value-creation plan holds up once it hits a plant floor or a distribution center, not just whether it looks good in an investment memo.
+You're accountable for whether value-creation plans hold up once they reach a plant floor or a distribution center — not just whether they look sound in a memo. The version of that problem arriving fastest right now is AI adoption, and most portfolio companies in manufacturing and consumer products don't have anyone evaluating whether the organization can absorb it before the implementation begins.
 
-I'm Tonya Seavers Evans, North Star Legacy Holdings. My work is change management — helping leadership teams actually adopt what they've decided to do, with AI adoption as the current, highest-leverage version of that problem. I hold a Prosci certification, so the readiness evaluation I bring to that work follows a proven, structured methodology rather than a bespoke framework invented per engagement. For portfolio companies in manufacturing and consumer products, AI readiness isn't really a technology question. It's whether the organization can absorb the change without losing the operational discipline that made it a good investment in the first place.
+I'm Tonya Seavers Evans, North Star Legacy Holdings. I'm a Prosci-certified change management practitioner, and AI readiness evaluation is the specific work I do. For portfolio companies without an internal technology function, I work as an interim Chief AI Officer — running the readiness assessment, leading the adoption plan, and staying through execution. For companies that have internal technical leadership, I come in on the organizational side: the people, structure, and communications that determine whether the rollout sticks.
 
-I'd like to understand how you currently think about readiness across the portfolio, and share how I've approached it elsewhere — no pitch, just a working conversation between people who deal with the same problem from different sides. Please send me a few dates and times that work well on your end, and I'll do my best to make my schedule work around yours.
-
-Open to a short call?
+20 minutes to walk through how I approach this for manufacturing and consumer products portfolios?
 
 Tonya Seavers Evans
 Founder & Principal, North Star Legacy Holdings
