@@ -4,6 +4,10 @@ Maintained by Sage. One row for every piece already sent to Tonya in a media ale
 
 | Date alerted | Contact | Outlet | Headline | URL | Published |
 |---|---|---|---|---|---|
+| 2026-10-06 | Kathryn Moody | HR Dive | Week in review: The Gen Z communication divide | https://www.hrdive.com/news/week-in-review-the-gen-z-communication-divide/832112/ | 2026-10-05 |
+| 2026-10-06 | Kathryn Moody | HR Dive | Job seekers say they are exhausted due to long applications and no answers | https://www.hrdive.com/news/job-seekers-exhausted-due-to-long-applications-and-no-answers/831595/ | 2026-09-29 |
+| 2026-10-06 | Roy Maurer | SHRM | AI Exposure Alone Doesn't Predict Where Jobs Grow | https://www.shrm.org/topics-tools/news/talent-acquisition/bls-employment-projections-ai-exposure | 2026-10-06 |
+| 2026-10-06 | Roy Maurer | SHRM | Meetings May Be More Valuable Than Many Think | https://www.shrm.org/topics-tools/news/meetings-may-be-more-valuable-than-many-think | 2026-10-06 |
 
 ## Run Records
 
@@ -11,7 +15,7 @@ One line for every Weekday Media Check run, including runs with nothing new. A w
 
 | Run date | Sources read | Sources unreadable | New items alerted |
 |---|---|---|---|
-| 2026-10-06 | none | All 5 Wave 1 sources unreadable: Adam DeRose (HR Brew author page), Roy Maurer (Muck Rack), Mark Feffer (Muck Rack bio; WorkforceAI.News not tried), Chip Cutter (Muck Rack), Kathryn Moody (HR Dive editor page). Page fetch was blocked in this run; fallback web searches returned titles and URLs but no publication dates, so no piece could be verified as new. | 0 (no email sent) |
+| 2026-10-06 (first run, on-demand; earlier run same day had page fetch blocked) | HR Dive Moody (read); HR Brew DeRose (read, no dates); Muck Rack Maurer (read); Muck Rack Feffer (read, no article list) | Muck Rack Chip Cutter (fetch blocked); SHRM article pages for Maurer items (blocked, headline only) | 4 (Moody x2, Maurer x2), emailed |
 
 ## Change Log
 - 2026-10-06: Log created.
