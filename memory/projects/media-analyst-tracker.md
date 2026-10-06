@@ -48,6 +48,7 @@ Maintained by Sage (program owner). See `agents/sage.md`, Program: Media and Ana
 | 14 | **Jill Barth** | HR Executive | Title not confirmed (byline on the July 8, 2026 Top 100 HR Tech Influencers article) | Good | 2 | Identified | 0 | 4 | none | Hold until promoted to Wave 1; weekly digest only | none |
 | 15 | **Brendan Jeannetti** | Next at Work (Workable podcast) | Host | Good | 2 | Identified | 0 | 4 | none | Hold until promoted to Wave 1; weekly digest only | none |
 | 16 | **HR Works Video Podcast** | HR Daily Advisor | Show produced by HR Daily Advisor staff (host not named on the page) | Partial | 2 | Identified | 0 | 4 | none | Hold until promoted to Wave 1; weekly digest only | none |
+| 17 | **Lakshmi Varanasi** | Business Insider | Reporter, technology and its impact on how we work | Partial | 2 | Identified | 0 | 4 | none | Hold until promoted to Wave 1; weekly digest only | none |
 
 ---
 
@@ -310,6 +311,17 @@ Maintained by Sage (program owner). See `agents/sage.md`, Program: Media and Ana
 - Offered or shared so far: none
 - Contact preferences: none
 
+#### Lakshmi Varanasi, Business Insider (Wave 2, fit: Partial)
+- Role: Reporter at Business Insider
+- Beat and recent coverage: Her bio describes her as covering "technology and its impact on how we work and interact." No recent article confirmed yet.
+- Source: https://humanx.co/speakers/lakshmi-varanasi (verified 2026-10-06; third-party event speaker page, not a Business Insider page; confirm on her Business Insider author page)
+- Why relevant: Covers technology and how it changes work, which matches the lead angle and the AI and future-of-work scope Tonya set on 2026-10-06.
+- Alert cadence: Monday digest only (Wave 2)
+- Where to check for new work: Business Insider author page (to locate and confirm)
+- LinkedIn: none
+- Offered or shared so far: none
+- Contact preferences: none
+
 ---
 
 ## Engagement Log
@@ -325,7 +337,7 @@ Add a row after Tonya confirms an action (she replies that she posted or sent it
 
 - LinkedIn URLs for all Wave 1 contacts: Sage finds them and fills in the profiles above; Tonya supplies only those Sage cannot locate.
 - Article-level links and dates for each recent piece Tonya comments on (start with Adam DeRose's recent HR Brew articles).
-- Media gaps: no verified AI-at-work reporter yet at Business Insider, Axios, Bloomberg, or Fast Company. None were added because none could be confirmed.
+- Media gaps (scope widened 2026-10-06 to reporters on AI or the future of work, not only AI-at-work): Business Insider now has Lakshmi Varanasi (Wave 2, to confirm). Business Insider also hired Stephen Council (AI companies) and Rya Jetha (physical AI and robotics) in May 2026 per a March 31, 2026 announcement; their beats are about the AI industry rather than work, so they were not added. Still no verified reporter at Axios, Bloomberg, or Fast Company. Sage keeps looking and adds only sourced names.
 - Analysts to check: David Green and Rebecca Wettemann need a recent piece confirmed; Josh Bersin and Kathi Enderes need 2026 coverage confirmed at the source.
 - The Guardian: identify the individual reporters on the Reworked series before any outreach.
 - HR Executive: confirm beats for Elizabeth Clarke and Jen Colletta, and Jill Barth's title. The July 8, 2026 Top 100 HR Tech Influencers list is a ready source of further names; it was not retrievable on 2026-10-06.
@@ -335,3 +347,4 @@ Add a row after Tonya confirms an action (she replies that she posted or sent it
 
 ## Change Log
 - 2026-10-06: Initial tracker created from two research passes (7 analysts, 16 media contacts). Wave 1 set to 4 analysts and 5 media contacts. All contacts at stage Identified, 0 weeks engaged.
+- 2026-10-06: Scope widened to AI and future-of-work coverage. Added Lakshmi Varanasi (Business Insider, Wave 2). Alerts and the weekly synopsis now cover AI and future-of-work pieces, not only HR.
