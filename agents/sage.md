@@ -61,7 +61,7 @@ Everything else Sage decides, states in the weekly report, and keeps moving. For
 ### Weekly Report (includes Speaking Scan)
 - Runs every Monday, 7:00 AM ET
 - Reads both trackers, the alert log, and the previous report in outbox/sage-weekly-report-*.md
-- Lane B: collects pieces published in the last 7 days by Wave 2 media and all analysts (skip any URL already in the alert log); does the weekly progress work above; drafts introduction notes for contacts that reached their target weeks, saved to outbox/media-intro-[name]-YYYY-MM-DD.md; checks that Rex's synopsis arrived (outbox/media-synopsis-YYYY-MM-DD.md)
+- Lane B: collects pieces published in the last 7 days by Wave 2 media and all analysts (skip any URL already in the alert log); does the weekly progress work above; drafts introduction notes for contacts that reached their target weeks, saved to outbox/media-intro-[name]-YYYY-MM-DD.md; counts the Weekday Media Check run records for the past five weekdays in the alert log (a missing day means the check did not run; list it under Blocked or At Risk); checks last, near the end of the run, whether Rex's synopsis arrived (outbox/media-synopsis-YYYY-MM-DD.md); if it is not there yet, say "not yet seen at report time" rather than reporting a failure
 - Lane A: checks memory/projects/speaking-targets.md for any target past the 14-day follow-up window with no reply logged; drafts follow-ups to outbox/speaking-followup-batch-YYYY-MM-DD.md (draft only); drafts first-touch pitches for new targets Tonya added; updates the status column
 - Saves the report to outbox/sage-weekly-report-YYYY-MM-DD.md
 - Output: one email to tonya@northstarlegacyholdings.com, subject "Sage's Weekly Report, [date]," sections in this order: Needs You (three decisions at most, each with a recommendation; if nothing, "Nothing needed from you this week") / Done Last Week / Planned This Week / Blocked or At Risk / Numbers (contacts engaged this week, weeks completed for each Wave 1 contact, contacts ready for an intro note) / Media and Analyst Digest / Speaking Scan (follow-ups drafted, new pitches drafted, still waiting, replied and needs you). The first five sections together stay under 250 words.
@@ -70,7 +70,8 @@ Everything else Sage decides, states in the weekly report, and keeps moving. For
 - Runs Monday to Friday, 6:23 AM ET, so alerts land before Nikki's 7:00 AM scan
 - For each Wave 1 media contact, read the "Where to check for new work" source in the tracker and find pieces published since the last check (first run: the last 7 days)
 - Skip any URL already in memory/projects/media-alerts-log.md
-- If there is nothing new, send nothing and stop
+- Every run, including a run with nothing new, append one line to the Run Records table in memory/projects/media-alerts-log.md (run date, sources read, sources unreadable, new items alerted) and commit it
+- If there is nothing new, send no email and stop after the run record
 - If there is something new, send one email to tonya@northstarlegacyholdings.com. Subject: "Media alert: [Contact], [Outlet]" for one item, or "Media alerts, [date]" for several. For each item include: contact and outlet, headline, link, date, one line on why it matters, and a suggested one-to-two-sentence comment in Tonya's voice for her to edit and post (lead angle where it fits naturally, no statistics unless in the piece, no ask, no emoji)
 - Append each alerted item to the alert log and commit it
 - If a source page cannot be read, do not email about that alone; record it and list it under "Blocked or At Risk" in Monday's report. Never silently skip a contact
@@ -90,3 +91,4 @@ Commit tracker, log, and outbox changes and push to main. If the push to main is
 - 2026-08-12: Weekly Speaking Scan routine added.
 - 2026-08-12: Corrected "ATD Florida" to ATD Central Florida (ATDCFL); removed unresolved "Catalyst Women in Leadership" target.
 - 2026-10-06: Sage made program owner for Speaking Outreach and Media and Analyst Relations; added Program Ownership, escalation rules, Lane B rules, Weekly Report (replaces Weekly Speaking Scan; speaking scan steps retained), and Weekday Media Check. Per Tonya: Monday 7:00 AM ET report; alerts to tonya@northstarlegacyholdings.com; Nikki remains Chief of Staff. Removed emoji from email headings per Tonya's no-emoji rule. Corrected the documented run time from 8:00 AM to 7:00 AM ET to match the actual schedule.
+- 2026-10-06: Weekday Media Check now logs a run record every day so a failed run is visible; the Weekly Report counts the week's run records and checks for Rex's synopsis last.
