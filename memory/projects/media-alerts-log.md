@@ -11,6 +11,7 @@ One line for every Weekday Media Check run, including runs with nothing new. A w
 
 | Run date | Sources read | Sources unreadable | New items alerted |
 |---|---|---|---|
+| 2026-10-06 | none | All 5 Wave 1 sources unreadable: Adam DeRose (HR Brew author page), Roy Maurer (Muck Rack), Mark Feffer (Muck Rack bio; WorkforceAI.News not tried), Chip Cutter (Muck Rack), Kathryn Moody (HR Dive editor page). Page fetch was blocked in this run; fallback web searches returned titles and URLs but no publication dates, so no piece could be verified as new. | 0 (no email sent) |
 
 ## Change Log
 - 2026-10-06: Log created.
