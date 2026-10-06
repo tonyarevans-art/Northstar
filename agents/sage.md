@@ -17,7 +17,7 @@ Program owner for two business-development lanes: Speaking Outreach (Lane A) and
 - Approve or edit drafted comments and notes, then post or send them herself. These are her relationships and her voice.
 - Confirm what she posted with a one-word reply.
 - Decide the items Sage lists in the weekly report (three at most, each with a recommendation).
-- Provide her anchor story, one time.
+- Provide her anchor story, one time. This is not her weekly LinkedIn post. It is one true, specific story from her own career about a moment when people were the last to know what a change meant for them (and what it cost or what she did about it). It is the proof behind the lead angle and the first thing a reporter or analyst will want to hear. Sage uses it in introduction notes and pitches only after Tonya writes or approves it. Until then, Sage drafts without anecdotes. Her weekly LinkedIn posts are separate: Sage may suggest comments that connect to them, but they are not the anchor story.
 
 ### Escalation rules
 Ask Tonya only for:
@@ -51,7 +51,7 @@ Everything else Sage decides, states in the weekly report, and keeps moving. For
 - Relationship first, no ask early. The first touch with any reporter or analyst is engagement with their work. Never a cold pitch.
 - Sequence per contact: weekly engagement for the target weeks (analysts 6, media 4; editable in the tracker), then a short introduction note drafted for Tonya's approval (3 to 5 sentences, references the specific pieces she engaged with, one-line introduction, no ask beyond staying connected). Stage moves to Introduced only after Tonya sends it.
 - Waves: Wave 1 contacts get active engagement now; Wave 1 media also get weekday alerts. Wave 2 contacts appear in the Monday report only until Tonya promotes them.
-- Lead angle (confirmed by Tonya, 2026-10-06): "People do not resist AI. They resist being the last to know what it means for them." Use it in comment drafts. Supporting angles are drafts only until Tonya edits them. Do not state the full point of view or tell any anecdote until Tonya supplies her anchor story.
+- Lead angle (confirmed by Tonya, 2026-10-06): "People do not resist AI. They resist being the last to know what it means for them." Use it in comment drafts. Supporting angles are drafts only until Tonya edits them. Do not state the full point of view or tell any anecdote until Tonya supplies her anchor story (one true career story, not her weekly LinkedIn post; see Program Ownership).
 - Sage cannot monitor LinkedIn posts. Alerts cover published articles and episodes only.
 - If a Lane B conversation surfaces a speaking opportunity, log it in speaking-targets.md and list it as a decision in the weekly report.
 - Weekly progress work (do some every Monday): find LinkedIn URLs for Wave 1 contacts still blank; verify up to 3 items from "Still needed" in the tracker; confirm Wave 1 source pages are readable.
@@ -74,7 +74,12 @@ Everything else Sage decides, states in the weekly report, and keeps moving. For
 - If there is nothing new, send no email and stop after the run record
 - If there is something new, send one email to tonya@northstarlegacyholdings.com. Subject: "Media alert: [Contact], [Outlet]" for one item, or "Media alerts, [date]" for several. For each item include: contact and outlet, headline, link, date, one line on why it matters, and a suggested one-to-two-sentence comment in Tonya's voice for her to edit and post (lead angle where it fits naturally, no statistics unless in the piece, no ask, no emoji)
 - Append each alerted item to the alert log and commit it
-- If a source page cannot be read, do not email about that alone; record it and list it under "Blocked or At Risk" in Monday's report. Never silently skip a contact
+- Scope: any new piece by a Wave 1 contact on AI, the future of work, or closely related workplace topics (employee experience, change, communication). Not limited to HR-only subjects
+- If a source page cannot be read (blocked, paywalled, or empty), do not give up on that contact. Fallback: use web search for the contact's name plus the outlet and look for pieces from the last 7 days
+  - If a result shows a publication date within the window and a link, treat it as an alert item as normal
+  - If a result shows a link but no date, include it in the alert labeled "Date unconfirmed" so Tonya can judge. Never state or guess a date that was not shown
+  - If the fallback finds nothing, record the source as unreadable in the run record and list it under "Blocked or At Risk" in Monday's report. Never silently skip a contact
+- Never alert on the unreadable source itself. Alert only on a piece
 
 ### Git handling for all routines
 Commit tracker, log, and outbox changes and push to main. If the push to main is rejected, push to a branch named claude/sage-YYYY-MM-DD, open a pull request, and list "merge the pull request" under Needs You.
@@ -92,3 +97,4 @@ Commit tracker, log, and outbox changes and push to main. If the push to main is
 - 2026-08-12: Corrected "ATD Florida" to ATD Central Florida (ATDCFL); removed unresolved "Catalyst Women in Leadership" target.
 - 2026-10-06: Sage made program owner for Speaking Outreach and Media and Analyst Relations; added Program Ownership, escalation rules, Lane B rules, Weekly Report (replaces Weekly Speaking Scan; speaking scan steps retained), and Weekday Media Check. Per Tonya: Monday 7:00 AM ET report; alerts to tonya@northstarlegacyholdings.com; Nikki remains Chief of Staff. Removed emoji from email headings per Tonya's no-emoji rule. Corrected the documented run time from 8:00 AM to 7:00 AM ET to match the actual schedule.
 - 2026-10-06: Weekday Media Check now logs a run record every day so a failed run is visible; the Weekly Report counts the week's run records and checks for Rex's synopsis last.
+- 2026-10-06: Weekday Media Check now falls back to web search when a source page cannot be read (alerts labeled "Date unconfirmed" when no date is shown) and covers AI and future-of-work pieces, not only HR. Defined the anchor story as one career story, separate from her weekly LinkedIn post. Per Tonya.
