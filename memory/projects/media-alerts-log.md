@@ -16,6 +16,7 @@ One line for every Weekday Media Check run, including runs with nothing new. A w
 | Run date | Sources read | Sources unreadable | New items alerted |
 |---|---|---|---|
 | 2026-10-06 (first run, on-demand; earlier run same day had page fetch blocked) | HR Dive Moody (read); HR Brew DeRose (read, no dates); Muck Rack Maurer (read); Muck Rack Feffer (read, no article list) | Muck Rack Chip Cutter (fetch blocked); SHRM article pages for Maurer items (blocked, headline only) | 4 (Moody x2, Maurer x2), emailed |
+| 2026-10-07 | None read directly (page fetch permission not granted for this run) | HR Brew DeRose, Muck Rack Maurer, Muck Rack Feffer, Muck Rack Cutter, HR Dive Moody (all fetch blocked); web search fallback run for all five contacts, returned no dated pieces in the window and no usable article links | 0, no email sent |
 
 ## Change Log
 - 2026-10-06: Log created.
