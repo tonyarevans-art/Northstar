@@ -8,6 +8,7 @@ Maintained by Sage. One row for every piece already sent to Tonya in a media ale
 | 2026-10-06 | Kathryn Moody | HR Dive | Job seekers say they are exhausted due to long applications and no answers | https://www.hrdive.com/news/job-seekers-exhausted-due-to-long-applications-and-no-answers/831595/ | 2026-09-29 |
 | 2026-10-06 | Roy Maurer | SHRM | AI Exposure Alone Doesn't Predict Where Jobs Grow | https://www.shrm.org/topics-tools/news/talent-acquisition/bls-employment-projections-ai-exposure | 2026-10-06 |
 | 2026-10-06 | Roy Maurer | SHRM | Meetings May Be More Valuable Than Many Think | https://www.shrm.org/topics-tools/news/meetings-may-be-more-valuable-than-many-think | 2026-10-06 |
+| 2026-10-26 | Emma Burleigh | Fortune | The AI productivity boom has bosses asking what's in it for employees | https://fortune.com/2026/10/19/ai-productivity-boom-has-bosses-asking-whats-in-it-for-employees/ | 2026-10-19 |
 
 ## Run Records
 
@@ -34,3 +35,4 @@ One line for every Weekday Media Check run, including runs with nothing new. A w
 ## Change Log
 - 2026-10-06: Log created.
 - 2026-10-06: Added Run Records so a failed run cannot hide behind "nothing new."
+- 2026-10-26: Added Monday report digest item (Burleigh, via Rex synopsis).
