@@ -16,6 +16,7 @@ Maintained by Sage. One row for every piece already sent to Tonya in a media ale
 | 2026-10-28 | Adam DeRose | HR Brew | Nearly half of workers say they're exaggerating their AI use at work | https://www.hr-brew.com/stories/nearly-half-of-workers-say-theyre-exaggerating-their-ai-use-at-work | Date unconfirmed |
 | 2026-10-28 | Adam DeRose | HR Brew | The recruiters' job description is changing, too, says LinkedIn research | https://www.hr-brew.com/stories/the-recruiters-job-description-is-changing-too-says-linkedin-research | Date unconfirmed |
 | 2026-10-28 | Adam DeRose | HR Brew | Brene Brown says HR's value becomes harder to replace when people pros are the company's bridge | https://www.hr-brew.com/stories/brene-brown-says-hrs-value-becomes-harder-to-replace-when-people-pros-are-the-companys-connective-tissue | Date unconfirmed |
+| 2026-11-02 | Caroline Colvin | HR Dive | AI at work: Employees, employers may not be on the same page | https://www.hrdive.com/news/ai-at-work-employees-employers-may-not-be-on-the-same-page/873055/ | 2026-10-28 |
 
 ## Run Records
 
